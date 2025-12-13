@@ -1,0 +1,94 @@
+/* ===== BASE ===== */
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #2E2F42;
+}
+a:hover {
+  color: blue;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+h2,h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #2E2F42;
+}
+/* ===== NAVIGATION / HEADER ===== */
+.navigation {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+.contact-list {
+  padding-left: 0;
+  margin: 0;
+}
+.first-logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  color: #2E2F42;
+}
+.blue-logo {
+  color: blue;
+}
+.blue-logo:hover,
+.footer-logo-blue:hover {
+  color: blue;
+}
+/* ===== HERO ===== */
+.hero {
+  background-color: #2E2F42;
+}
+.hero h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+/* ===== BUTTON ===== */
+button {
+  background-color: #4D5AE5;
+  color: white;
+}
+/* ===== TEAM ===== */
+.team {
+  background-color: #F4F4FD;
+  text-align: center;
+}
+.team li {
+  background-color: white;
+}
+.team img {
+  display: block;
+  margin-right: auto;
+}
+/* ===== PORTFOLIO ===== */
+.portfolio h2 {
+  text-align: center;
+}
+
+/* ===== FOOTER ===== */
+footer {
+  background-color: #2E2F42;
+}
+.footer-logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  color: white;
+}
+.footer-logo-blue {
+  color: blue;
+}
+.footer-p {
+  color: white;
+}
