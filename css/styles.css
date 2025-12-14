@@ -89,6 +89,7 @@ button {
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
+  margin-left: 0;
 }
 
 button:hover,
@@ -105,7 +106,10 @@ button:focus {
 .team li {
   background-color: #ffffff;
 }
-
+.team img {
+  display: block;
+  margin-right: auto;
+}
 /* ===== PORTFOLIO ===== */
 .portfolio h2 {
   text-align: center;
@@ -119,5 +123,6 @@ footer {
 .footer-text {
   color: #f4f4fd;
 }
+
 
 
