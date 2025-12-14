@@ -27,21 +27,21 @@ h1 {
 h2 {
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.5px;
   color: #2e2f42;
 }
 
 h3 {
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.5px;
   color: #2e2f42;
 }
 
 p {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.5;
   color: #434455;
 }
 
@@ -119,4 +119,5 @@ footer {
 .footer-text {
   color: #f4f4fd;
 }
+
 
