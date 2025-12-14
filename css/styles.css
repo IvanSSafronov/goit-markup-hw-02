@@ -1,14 +1,6 @@
 /* ===== BASE ===== */
-body {
-  font-family: 'Roboto', sans-serif;
-  color: #434455;
-  background-color: #ffffff;
-}
-
 ul {
   list-style: none;
-  padding-left: 0;
-  margin: 0;
 }
 
 a {
@@ -127,3 +119,4 @@ footer {
 .footer-text {
   color: #f4f4fd;
 }
+
