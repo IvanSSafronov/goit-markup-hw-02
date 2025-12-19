@@ -15,9 +15,12 @@ a:focus {
 address {
   font-style: normal;
 }
-body{
-  font-style: 'Roboto', sans-serif;
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
+
 
 /* ===== TYPOGRAPHY ===== */
 h1 {
@@ -71,11 +74,21 @@ p {
 .navigation {
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
+}
+.navigation a {
+  letter-spacing: 0.02em;
 }
 .contact-list{
   color:#434455;
 }
+.contact-list a {
+  color: #434455;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+}
+
 /* ===== HERO ===== */
 .hero {
   background-color: #2e2f42;
@@ -125,3 +138,4 @@ footer {
 .footer-text {
   color: #f4f4fd;
 }
+
